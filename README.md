@@ -2,6 +2,8 @@
 
 Desafio para vaga Desenvolvedor de FrontEnd Pleno no Grupo AgroCP
 
+-Todas as tarefas, serão avaliadas, faça o que puder. As tarefas terão que ser entregues em dois dias desde do envio por email.
+
 Todas as tarefas tem que ser desenvolvidas em VueJS
 
 Desenvolver um portal com algumas funções:
