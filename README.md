@@ -1,6 +1,6 @@
 # Desafio Desenvolvedor Front End AGROCP 2021
 
--Todas as tarefas, serão avaliadas. As tarefas terão que ser entregues em dois dias desde do envio por email.
+- Todas as tarefas, serão avaliadas. As tarefas terão que ser entregues em dois dias desde do envio por email.
 
 Todas as tarefas tem que ser desenvolvidas em VueJS
 
